@@ -140,6 +140,14 @@ export default {
           "frame": "Everest",
           "mech": "Rio Bravo"
         },
+        {
+          "callsign": "Abba",
+          "alias": "Raine",
+          "code": "462370be-bd0f-41c2-b667-cc75f3a59a96///NDL-C-DEEP-STATION//377308ad-ba23-410b-ae37-68a1fb5f8db4",
+          "corpro": "IPS",
+          "frame": "Sagmartha",
+          "mech": "In praise of the dead"
+        },
       ],
       "header": {
         "planet": "Hercynia",
