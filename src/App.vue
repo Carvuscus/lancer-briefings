@@ -158,7 +158,7 @@ export default {
         "headerTitle": "Mirrorsmoke",
         "headerSubtitle": "Mercenary Company",
         "subheaderTitle": "Crisis Response",
-        "subheaderSubtitle": "Bravo-Echo-Romeo-Kilo-Alpha-India",
+        "subheaderSubtitle": "Delta-Echo-Alpha-Delta",
       },
       "options":{
         "eventsMarkdownPerMission": true
