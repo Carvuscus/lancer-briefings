@@ -102,10 +102,10 @@ export default {
       "pilots": [
         {
           "callsign": "Gallant",
-          "alias": "Gilbert",
+          "alias": "Gilbert DuBois de Fouguex dit le Parravon Rallart XVII",
           "code": "462370be-bd0f-41c2-b667-cc75f3a59a96///MSMC//377308ad-ba23-410b-ae37-68a1fb5f8db4",
           "corpro": "GMS",
-          "frame": "Sgarmatha",
+          "frame": "Sagarmatha",
           "mech": "In Praise of the Dead"
         },
         {
