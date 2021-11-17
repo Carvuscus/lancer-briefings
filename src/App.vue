@@ -141,12 +141,12 @@ export default {
           "mech": "With Earth as My Witness"
         },
         {
-          "callsign": "Bangarang",
-          "alias": "Enoch Kaltos",
+          "callsign": "Erebus",
+          "alias": "Enoch",
           "code": "462370be-bd0f-41c2-b667-cc75f3a59a96///Lost-In-Space//377308ad-ba23-410b-ae37-68a1fb5f8db4",
           "corpro": "GMS",
           "frame": "Everest",
-          "mech": "Diplomacy"
+          "mech": "Famous Last Wyrds"
         },
       ],
       "header": {
